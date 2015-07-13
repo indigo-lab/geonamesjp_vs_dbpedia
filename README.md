@@ -1,2 +1,3 @@
 # geonamesjp_vs_dbpedia
-GeoNames.jp と DBpedia のリンクセット
+[GeoNames.jp](http://geonames.jp/) と[DBpedia Japanese](http://ja.dbpedia.org/) のリンクセット
+
